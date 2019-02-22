@@ -1,4 +1,4 @@
-# ashishashoksingh.github.io
+# Ashish
 Alpha Website
 
 https://ashishashoksingh.github.io/
